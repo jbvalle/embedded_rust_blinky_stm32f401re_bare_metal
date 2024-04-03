@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "app",
+    "stm32"
+]
+resolver = "2"
